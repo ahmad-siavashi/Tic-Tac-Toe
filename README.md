@@ -12,7 +12,8 @@
     - Player Vs. Computer
     - Computer Vs. Computer
 - Features
-    - TUI
+    - Fully Textual Interface
+    - Keyboard Availability
     - Mouse Availability  
 
 ![Alt text](Screenshot.PNG)
