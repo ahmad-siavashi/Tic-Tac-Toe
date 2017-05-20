@@ -11,5 +11,7 @@
     - Player Vs. Player
     - Player Vs. Computer
     - Computer Vs. Computer
-
+- Features
+    - TUI
+    - Mouse Availability
 ![Alt text](Screenshot.PNG)
