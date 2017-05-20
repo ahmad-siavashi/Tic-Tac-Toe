@@ -12,4 +12,4 @@
     - Player Vs. Computer
     - Computer Vs. Computer
 
-![Alt text](Screenshot.png)
+![Alt text](Screenshot.PNG)
